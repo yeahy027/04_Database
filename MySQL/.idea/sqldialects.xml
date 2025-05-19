@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/실습과제/06_SQL기본/심화/06_SQL기본_심화.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/실습과제/07_SQL고급/기본/07_SQL고급_기본.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/실습과제/07_SQL고급/심화/07_SQL고급_심화.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/실습과제/08_테이블과뷰/기본/08_테이블과뷰_기본.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/실습과제/08_테이블과뷰/심화/08_테이블과뷰_심화.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
