@@ -11,7 +11,6 @@ import java.util.List;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-
 public class TravelVO {
     private Long no;
     private String district;
@@ -19,6 +18,5 @@ public class TravelVO {
     private String description;
     private String address;
     private String phone;
-
     private List<TravelImageVO> images;
 }

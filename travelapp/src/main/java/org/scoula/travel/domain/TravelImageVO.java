@@ -14,3 +14,4 @@ public class TravelImageVO {
     private String filename;
     private Long travelNo;
 }
+
